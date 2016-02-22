@@ -1,0 +1,16 @@
+sets.exported={
+    main="Midnights",
+    range="Divinator",
+    ammo="Automat. Oil +3",
+    head={ name="Rao Kabuto +1", augments={'Pet: HP+125','Pet: Accuracy+20','Pet: Damage taken -4%',}},
+    body={ name="Rao Togi +1", augments={'Pet: HP+125','Pet: Accuracy+20','Pet: Damage taken -4%',}},
+    legs={ name="Rao Haidate +1", augments={'Pet: HP+125','Pet: Accuracy+20','Pet: Damage taken -4%',}},
+    feet="Hermes' Sandals",
+    neck="Wiglen Gorget",
+    waist="Hurch'lan Sash",
+    left_ear="Bladeborn Earring",
+    right_ear="Steelflash Earring",
+    left_ring="Epona's Ring",
+    right_ring="Paguroidea Ring",
+    back="Shadow Mantle",
+}

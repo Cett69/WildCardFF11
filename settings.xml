@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <autoload>
+    <addon>GearSwap</addon>
+    <addon>VisibleFavor</addon>
+    <addon>organizer</addon>
+    <addon>Silence</addon>
+    <addon>battlemod</addon>
+    <addon>distance</addon>
+    <addon>findAll</addon>
+    <addon>shortcuts</addon>
+    <addon>TParty</addon>
+    <addon>pointwatch</addon>
+    <addon>SpeedChecker</addon>
+    <addon>PetTP</addon>
+    <addon>boxdestroyer</addon>
+    <addon>autocontrol</addon>
+    <plugin>Config</plugin>
+    <plugin>DelayMeNot</plugin>
+    <plugin>Timers</plugin>
+    <plugin>Sandbox</plugin>
+  </autoload>
+  <profile name="">
+    <consolekey>Insert</consolekey>
+    <windowmode>Window</windowmode>
+    <width>1360</width>
+    <height>768</height>
+    <uiscale>1</uiscale>
+    <supersampling>2</supersampling>
+    <bumpmapping>true</bumpmapping>
+  </profile>
+  <profile name="New Profile 1">
+    <consolekey>Insert</consolekey>
+    <uiscale>1</uiscale>
+  </profile>
+</settings>
