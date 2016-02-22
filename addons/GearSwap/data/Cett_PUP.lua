@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------------------------
 -- Setup functions for this job.  Generally should not be modified.
--------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 -- Initialization function for this job file.
 function get_sets()
@@ -174,8 +174,8 @@ function init_gear_sets()
     sets.engaged = set_combine(set.idle,{
         neck="Asperity Necklace",ear1="Bladeborn Earring",ear2="Steelflash Earring",
         ring1="Rajas Ring",ring2="Epona's Ring",
-        back="Penetrating Cape",waist="Windbuffet Belt",legs="Rao Haidate +1",feet="Rao sune-ate +1"})
-    sets.engaged.Acc = set_combine(set.engaged,{
+        back="Penetrating Cape",waist="Windbuffet Belt",legs="Rao Haidate +1",feet="Rao Sune-ate +1"})
+    sets.engaged.Acc = set_combine(sets.engaged,{
         neck="Sanctity Necklace",ear1="Bladeborn Earring",ear2="Steelflash Earring",
         ring1="Rajas Ring",ring2="Epona's Ring",
         back="Dispersal Mantle",waist="Hurch'lan Sash"})
