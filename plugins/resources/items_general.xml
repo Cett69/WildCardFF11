@@ -3518,6 +3518,13 @@
   <i id="3706" enl="Vana'clock" jp="ヴァナクロック" jpl="" targets="None">Vana'clock</i>
   <i id="3707" enl="murrey grisaille" jp="マリーグリザイユ" jpl="" targets="None">Murrey Grisaille</i>
   <i id="3708" enl="moss green grisaille" jp="モスグリザイユ" jpl="" targets="None">Moss Gr. Grisaille</i>
+  <i id="3710" enl="Windurstian sill" jp="ウィンダスシル" jpl="" targets="None">Windurstian Sill</i>
+  <i id="3711" enl="San d'Orian sill" jp="サンドリアシル" jpl="" targets="None">San d'Orian Sill</i>
+  <i id="3712" enl="Bastokan sill" jp="バストゥークシル" jpl="" targets="None">Bastokan Sill</i>
+  <i id="3713" enl="pot of wards" jp="ウォードポット" jpl="" targets="None">Pot of Wards</i>
+  <i id="3714" enl="pot of white clematis" jp="ホワイトクレマテス" jpl="" targets="None">White Clematis</i>
+  <i id="3715" enl="pot of pink clematis" jp="ピンククレマテス" jpl="" targets="None">Pink Clematis</i>
+  <i id="3717" enl="birch tree" jp="カバノキ" jpl="" targets="None">Birch Tree</i>
   <i id="3840" enl="pulse cell: Mx" jp="パルス管【Mx】" jpl="" targets="None">Pulse Cell: Mx</i>
   <i id="3841" enl="pulse cell: An" jp="パルス管【An】" jpl="" targets="None">Pulse Cell: An</i>
   <i id="3842" enl="pulse cell: Fa" jp="パルス管【Fa】" jpl="" targets="None">Pulse Cell: Fa</i>
@@ -5998,6 +6005,7 @@
   <i id="6488" enl="frayed sack of opulence" jp="古い袋【黒魂石】" jpl="" targets="Self" casttime="1">Frayed Sack (Tau)</i>
   <i id="6489" enl="Far East puffer" jp="ネオタキタロ" jpl="" targets="Self" casttime="1">Far East Puffer</i>
   <i id="6498" enl="bunch of fortune fruits" jp="ラッキーフルーツ" jpl="" targets="Self" casttime="1">Fortune Fruits</i>
+  <i id="6499" enl="patio design plan document" jp="モグの中庭の設計図" jpl="" targets="Self" casttime="1">Patio Design Plans</i>
   <i id="8193" enl="Harlequin head" jp="湎用ヘッド" jpl="">Harlequin Head</i>
   <i id="8194" enl="Valoredge X-900 head" jp="白兵戦ヘッド" jpl="">Valoredge Head</i>
   <i id="8195" enl="Sharpshot Z-500 head" jp="射撃戦ヘッド" jpl="">Sharpshot Head</i>
@@ -6558,6 +6566,11 @@
   <i id="9215" enl="tuft of void grass" jp="ヴォイドグラス" jpl="" targets="None">Void Grass</i>
   <i id="9216" enl="voidsnapper" jp="ヴォイドキンギョ" jpl="" targets="None">Voidsnapper</i>
   <i id="9217" enl="dial key #Ab" jp="ダイヤルキー#Ab" jpl="" targets="None">Dial Key #Ab</i>
+  <i id="9220" enl="spool of Abdhaljs thread" jp="アブダルスの糸" jpl="" targets="None">Abdhaljs Thread</i>
+  <i id="9221" enl="pinch of Abdhaljs dust" jp="アブダルスの金粉" jpl="" targets="None">Abdhaljs Dust</i>
+  <i id="9223" enl="bottle of Abdhaljs sap" jp="アブダルスの水油" jpl="" targets="None">Abdhaljs Sap</i>
+  <i id="10049" enl="♪Raptor" jp="♪ラプトル" jpl="" targets="None">♪Raptor</i>
+  <i id="10050" enl="♪Tiger" jp="♪剣虎" jpl="" targets="None">♪Tiger</i>
   <i id="10112" enl="cipher of Zeid's alter ego" jp="盟-ザイド" jpl="" targets="None">Cipher: Zeid</i>
   <i id="10113" enl="cipher of Lion's alter ego" jp="盟-ライオン" jpl="" targets="None">Cipher: Lion</i>
   <i id="10114" enl="cipher of Tenzen's alter ego" jp="盟-テンゼン" jpl="" targets="None">Cipher: Tenzen</i>
@@ -6776,6 +6789,7 @@
   <i id="29331" enl="moogle storage slip 20" jp="モグの預り帳【20】" jpl="">Storage Slip 20</i>
   <i id="29332" enl="moogle storage slip 21" jp="モグの預り帳【21】" jpl="">Storage Slip 21</i>
   <i id="29333" enl="moogle storage slip 22" jp="モグの預り帳【22】" jpl="">Storage Slip 22</i>
+  <i id="29334" enl="moogle storage slip 23" jp="モグの預り帳【23】" jpl="">Storage Slip 23</i>
   <i id="29695" enl="mangled mess" jp="？？？" jpl="">Mangled Mess</i>
   <i id="61441" enl="Rabbit" jp="ウサギ族" jpl="">Rabbit</i>
   <i id="61442" enl="Behemoth" jp="ベヒーモス族" jpl="">Behemoth</i>

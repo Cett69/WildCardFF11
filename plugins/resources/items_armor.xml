@@ -6142,6 +6142,8 @@
   <i id="25656" enl="Ynglinga sallet" jp="インリンガサリット" jpl="" slots="0010" jobs="00007382" races="01FE" level="99" targets="None" casttime="0" recast="0">Ynglinga Sallet</i>
   <i id="25657" enl="wyrmking masque" jp="バハムートヘッド" jpl="" slots="0010" jobs="007FFFFE" races="01FE" level="1" targets="None" casttime="0" recast="0">Wyrmking Masque</i>
   <i id="25658" enl="wyrmking masque +1" jp="バハムートヘッド+1" jpl="" slots="0010" jobs="007FFFFE" races="01FE" level="1" targets="Self" casttime="0" recast="72000">Wyrm. Masque +1</i>
+  <i id="25659" enl="Sulevia's mask" jp="スレビアマスク" jpl="" slots="0010" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulevia's Mask</i>
+  <i id="25660" enl="Sulevia's mask +1" jp="スレビアマスク+1" jpl="" slots="0010" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulevia's Mask +1</i>
   <i id="25670" enl="rarab cap" jp="ララブキャップ" jpl="" slots="0010" jobs="007FFFFE" races="01FE" level="1" targets="None" casttime="0" recast="0">Rarab Cap</i>
   <i id="25671" enl="rarab cap +1" jp="ララブキャップ+1" jpl="" slots="0010" jobs="007FFFFE" races="01FE" level="1" targets="Self" casttime="0" recast="3600">Rarab Cap +1</i>
   <i id="25672" enl="snoll masque" jp="スノールマスク" jpl="" slots="0010" jobs="007FFFFE" races="01FE" level="1" targets="None" casttime="0" recast="0">Snoll Masque</i>
@@ -6207,12 +6209,16 @@
   <i id="25742" enl="Flaviria Unity shirt" jp="フラヴィリアシャツ" jpl="" slots="0020" jobs="007FFFFE" races="01FE" level="1" targets="None" casttime="0" recast="0">Flaviria Unity Shirt</i>
   <i id="25743" enl="Yoran-Oran Unity shirt" jp="ヨランオランシャツ" jpl="" slots="0020" jobs="007FFFFE" races="01FE" level="1" targets="None" casttime="0" recast="0">Yoran Unity Shirt</i>
   <i id="25744" enl="Sylvie Unity shirt" jp="シルヴィシャツ" jpl="" slots="0020" jobs="007FFFFE" races="01FE" level="1" targets="None" casttime="0" recast="0">Sylvie Unity Shirt</i>
+  <i id="25745" enl="Sulevia's platemail" jp="スレビアプレート" jpl="" slots="0020" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulevia's Plate.</i>
+  <i id="25746" enl="Sulevia's platemail +1" jp="スレビアプレート+1" jpl="" slots="0020" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulevia's Plate. +1</i>
   <i id="25756" enl="wyrmking suit" jp="バハムートスーツ" jpl="" slots="0020" jobs="007FFFFE" races="01FE" level="1" targets="None" casttime="0" recast="0">Wyrmking Suit</i>
   <i id="25757" enl="wyrmking suit +1" jp="バハムートスーツ+1" jpl="" slots="0020" jobs="007FFFFE" races="01FE" level="1" targets="Self" casttime="0" recast="3600">Wyrmking Suit +1</i>
   <i id="25758" enl="rhapsody shirt" jp="ラプソディシャツ" jpl="" slots="0020" jobs="007FFFFE" races="01FE" level="1" targets="None" casttime="0" recast="0">Rhapsody Shirt</i>
   <i id="25759" enl="rhapsody shirt +1" jp="ラプソディシャツ+1" jpl="" slots="0020" jobs="007FFFFE" races="01FE" level="1" targets="None" casttime="0" recast="0">Rhapsody Shirt +1</i>
   <i id="25760" enl="mrigavyadha gloves" jp="ムリガヴダグローブ" jpl="" slots="0040" jobs="00020840" races="01FE" level="99" targets="None" casttime="0" recast="0">Mrigavyadha Gloves</i>
   <i id="25761" enl="iktomi dastanas" jp="イクトミダスタナ" jpl="" slots="0040" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Iktomi Dastanas</i>
+  <i id="25800" enl="Sulevia's gauntlets" jp="スレビアガントレ" jpl="" slots="0040" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulevia's Gauntlets</i>
+  <i id="25801" enl="Sulevia's gauntlets +1" jp="スレビアガントレ+1" jpl="" slots="0040" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulev. Gauntlets +1</i>
   <i id="25840" enl="odyssean cuisses" jp="オディシアクウィス" jpl="" slots="0080" jobs="00000182" races="01FE" level="99" targets="None" casttime="0" recast="0">Odyssean Cuisses</i>
   <i id="25841" enl="valorous hose" jp="バロラスホーズ" jpl="" slots="0080" jobs="00005382" races="01FE" level="99" targets="None" casttime="0" recast="0">Valor. Hose</i>
   <i id="25842" enl="herculean trousers" jp="ヘルクリアトラウザ" jpl="" slots="0080" jobs="004F2844" races="01FE" level="99" targets="None" casttime="0" recast="0">Herculean Trousers</i>
@@ -6224,12 +6230,16 @@
   <i id="25854" enl="arjuna breeches" jp="アジュナブリーチズ" jpl="" slots="0080" jobs="00003382" races="01FE" level="99" targets="None" casttime="0" recast="0">Arjuna Breeches</i>
   <i id="25855" enl="tatenashi haidate" jp="楯無佩楯" jpl="" slots="0080" jobs="00003806" races="01FE" level="99" targets="None" casttime="0" recast="0">Tatena. Haidate</i>
   <i id="25856" enl="tatenashi haidate +1" jp="楯無佩楯改" jpl="" slots="0080" jobs="00003806" races="01FE" level="99" targets="None" casttime="0" recast="0">Tatena. Haidate +1</i>
+  <i id="25858" enl="Sulevia's cuisses" jp="スレビアクウィス" jpl="" slots="0080" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulevia's Cuisses</i>
+  <i id="25859" enl="Sulevia's cuisses +1" jp="スレビアクウィス+1" jpl="" slots="0080" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulevi. Cuisses +1</i>
   <i id="25864" enl="stinky subligar" jp="腐食したサブリガ" jpl="" slots="0080" jobs="004B77E6" races="01FE" level="1" targets="None" casttime="0" recast="0">Stinky Subligar</i>
   <i id="25920" enl="ahosi leggings" jp="アホシレギンス" jpl="" slots="0100" jobs="004F2844" races="01FE" level="99" targets="None" casttime="0" recast="0">Ahosi Leggings</i>
   <i id="25921" enl="skaoi boots" jp="スカウイブーツ" jpl="" slots="0100" jobs="00758438" races="01FE" level="99" targets="None" casttime="0" recast="0">Skaoi Boots</i>
   <i id="25922" enl="navon crackows" jp="ナヴォンクラッコー" jpl="" slots="0100" jobs="00308438" races="01FE" level="99" targets="None" casttime="0" recast="0">Navon Crackows</i>
   <i id="25923" enl="tatenashi sune-ate" jp="楯無脛当" jpl="" slots="0100" jobs="00003806" races="01FE" level="99" targets="None" casttime="0" recast="0">Tatena. Sune.</i>
   <i id="25924" enl="tatenashi sune-ate +1" jp="楯無脛当改" jpl="" slots="0100" jobs="00003806" races="01FE" level="99" targets="None" casttime="0" recast="0">Tatena. Sune. +1</i>
+  <i id="25925" enl="Sulevia's leggings" jp="スレビアレギンス" jpl="" slots="0100" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulevia's Leggings</i>
+  <i id="25926" enl="Sulevia's leggings +1" jp="スレビアレギンス+1" jpl="" slots="0100" jobs="00004182" races="01FE" level="99" targets="None" casttime="0" recast="0">Sulev. Leggings +1</i>
   <i id="26000" enl="consummation torque" jp="コンシュムトルク" jpl="" slots="0200" jobs="007FFFFE" races="01FE" level="99" targets="None" casttime="0" recast="0">Consumm. Torque</i>
   <i id="26001" enl="loricate torque" jp="ロリケートトルク" jpl="" slots="0200" jobs="007FFFFE" races="01FE" level="99" targets="None" casttime="0" recast="0">Loricate Torque</i>
   <i id="26002" enl="loricate torque +1" jp="ロリケートトルク+1" jpl="" slots="0200" jobs="007FFFFE" races="01FE" level="99" targets="None" casttime="0" recast="0">Loricate Torque +1</i>
@@ -6270,12 +6280,37 @@
   <i id="26173" enl="apate ring" jp="アペートリング" jpl="" slots="6000" jobs="007FFFFE" races="01FE" level="99" targets="None" casttime="0" recast="0">Apate Ring</i>
   <i id="26174" enl="persis ring" jp="パーシスリング" jpl="" slots="6000" jobs="007FFFFE" races="01FE" level="99" targets="None" casttime="0" recast="0">Persis Ring</i>
   <i id="26175" enl="hetairoi ring" jp="ヘタイロイリング" jpl="" slots="6000" jobs="007FFFFE" races="01FE" level="99" targets="None" casttime="0" recast="0">Hetairoi Ring</i>
+  <i id="26176" enl="dimensional ring (Holla)" jp="Ｄ．ホラリング" jpl="" slots="6000" jobs="007FFFFE" races="01FE" level="99" targets="Self" casttime="0" recast="600">Dim. Ring (Holla)</i>
+  <i id="26177" enl="dimensional ring (Dem)" jp="Ｄ．デムリング" jpl="" slots="6000" jobs="007FFFFE" races="01FE" level="99" targets="Self" casttime="0" recast="600">Dim. Ring (Dem)</i>
+  <i id="26178" enl="dimensional ring (Mea)" jp="Ｄ．メアリング" jpl="" slots="6000" jobs="007FFFFE" races="01FE" level="99" targets="Self" casttime="0" recast="600">Dim. Ring (Mea)</i>
   <i id="26240" enl="tantalic cape" jp="タンタリクケープ" jpl="" slots="8000" jobs="007FFFFE" races="01FE" level="99" targets="None" casttime="0" recast="0">Tantalic Cape</i>
   <i id="26241" enl="scintillating cape" jp="シンチレートケープ" jpl="" slots="8000" jobs="00008000" races="01FE" level="99" targets="None" casttime="0" recast="0">Scintillating Cape</i>
   <i id="26242" enl="phalangite mantle" jp="ファランジトマント" jpl="" slots="8000" jobs="004B7FE6" races="01FE" level="99" targets="None" casttime="0" recast="0">Phalangite Mantle</i>
   <i id="26243" enl="perimede cape" jp="ペリミデケープ" jpl="" slots="8000" jobs="00358438" races="01FE" level="99" targets="None" casttime="0" recast="0">Perimede Cape</i>
   <i id="26244" enl="agema cape" jp="アゲマケープ" jpl="" slots="8000" jobs="004B7FE6" races="01FE" level="99" targets="None" casttime="0" recast="0">Agema Cape</i>
   <i id="26245" enl="solemnity cape" jp="ソレムニティケープ" jpl="" slots="8000" jobs="007FFFFE" races="01FE" level="99" targets="None" casttime="0" recast="0">Solemnity Cape</i>
+  <i id="26246" enl="Cichol's mantle" jp="シコルマント" jpl="" slots="8000" jobs="00000002" races="01FE" level="99" targets="None" casttime="0" recast="0">Cichol's Mantle</i>
+  <i id="26247" enl="Segomo's mantle" jp="セゴモマント" jpl="" slots="8000" jobs="00000004" races="01FE" level="99" targets="None" casttime="0" recast="0">Segomo's Mantle</i>
+  <i id="26248" enl="Alaunus's cape" jp="アラウナスケープ" jpl="" slots="8000" jobs="00000008" races="01FE" level="99" targets="None" casttime="0" recast="0">Alaunus's Cape</i>
+  <i id="26249" enl="Taranus's cape" jp="タラナスケープ" jpl="" slots="8000" jobs="00000010" races="01FE" level="99" targets="None" casttime="0" recast="0">Taranus's Cape</i>
+  <i id="26250" enl="Sucellos's cape" jp="スセロスケープ" jpl="" slots="8000" jobs="00000020" races="01FE" level="99" targets="None" casttime="0" recast="0">Sucellos's Cape</i>
+  <i id="26251" enl="Toutatis's cape" jp="トゥタティスケープ" jpl="" slots="8000" jobs="00000040" races="01FE" level="99" targets="None" casttime="0" recast="0">Toutatis's Cape</i>
+  <i id="26252" enl="Rudianos's mantle" jp="ルディアノスマント" jpl="" slots="8000" jobs="00000080" races="01FE" level="99" targets="None" casttime="0" recast="0">Rudianos's Mantle</i>
+  <i id="26253" enl="Ankou's mantle" jp="アンコウマント" jpl="" slots="8000" jobs="00000100" races="01FE" level="99" targets="None" casttime="0" recast="0">Ankou's Mantle</i>
+  <i id="26254" enl="Artio's mantle" jp="アルティオマント" jpl="" slots="8000" jobs="00000200" races="01FE" level="99" targets="None" casttime="0" recast="0">Artio's Mantle</i>
+  <i id="26255" enl="Intarabus's cape" jp="インタラアスケープ" jpl="" slots="8000" jobs="00000400" races="01FE" level="99" targets="None" casttime="0" recast="0">Intarabus's Cape</i>
+  <i id="26256" enl="Belenus's cape" jp="ベレナスケープ" jpl="" slots="8000" jobs="00000800" races="01FE" level="99" targets="None" casttime="0" recast="0">Belenus's Cape</i>
+  <i id="26257" enl="Smertrios's mantle" jp="スメルトリオマント" jpl="" slots="8000" jobs="00001000" races="01FE" level="99" targets="None" casttime="0" recast="0">Smertrios's Mantle</i>
+  <i id="26258" enl="Andartia's mantle" jp="アンダルタマント" jpl="" slots="8000" jobs="00002000" races="01FE" level="99" targets="None" casttime="0" recast="0">Andartia's Mantle</i>
+  <i id="26259" enl="Brigantia's mantle" jp="ブリガンチアマント" jpl="" slots="8000" jobs="00004000" races="01FE" level="99" targets="None" casttime="0" recast="0">Brigantia's Mantle</i>
+  <i id="26260" enl="Campestres's cape" jp="カンペストレケープ" jpl="" slots="8000" jobs="00008000" races="01FE" level="99" targets="None" casttime="0" recast="0">Campestres's Cape</i>
+  <i id="26261" enl="Rosmerta's cape" jp="ロスメルタケープ" jpl="" slots="8000" jobs="00010000" races="01FE" level="99" targets="None" casttime="0" recast="0">Rosmerta's Cape</i>
+  <i id="26262" enl="Camulus's mantle" jp="カムラスマント" jpl="" slots="8000" jobs="00020000" races="01FE" level="99" targets="None" casttime="0" recast="0">Camulus's Mantle</i>
+  <i id="26263" enl="Visucius's mantle" jp="ビスシアスマント" jpl="" slots="8000" jobs="00040000" races="01FE" level="99" targets="None" casttime="0" recast="0">Visucius's Mantle</i>
+  <i id="26264" enl="Senuna's mantle" jp="セヌーナマント" jpl="" slots="8000" jobs="00080000" races="01FE" level="99" targets="None" casttime="0" recast="0">Senuna's Mantle</i>
+  <i id="26265" enl="Lugh's cape" jp="ルッフケープ" jpl="" slots="8000" jobs="00100000" races="01FE" level="99" targets="None" casttime="0" recast="0">Lugh's Cape</i>
+  <i id="26266" enl="Nantosuelta's cape" jp="ナントセルタケープ" jpl="" slots="8000" jobs="00200000" races="01FE" level="99" targets="None" casttime="0" recast="0">Nantosuelta's Cape</i>
+  <i id="26267" enl="Ogma's cape" jp="オーグマケープ" jpl="" slots="8000" jobs="00400000" races="01FE" level="99" targets="None" casttime="0" recast="0">Ogma's cape</i>
   <i id="26320" enl="kobo obi" jp="句芒の帯" jpl="" slots="0400" jobs="00318438" races="01FE" level="99" targets="None" casttime="0" recast="0">Kobo Obi</i>
   <i id="26321" enl="reiki yotai" jp="霊亀腰帯" jpl="" slots="0400" jobs="004B77E6" races="01FE" level="99" targets="None" casttime="0" recast="0">Reiki Yotai</i>
   <i id="26322" enl="kerygma belt" jp="ケリグマベルト" jpl="" slots="0400" jobs="00004382" races="01FE" level="99" targets="None" casttime="0" recast="0">Kerygma Belt</i>

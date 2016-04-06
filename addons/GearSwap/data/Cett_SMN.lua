@@ -27,11 +27,13 @@ function get_sets()
     -- Cett Base
     sets.base = { main = "Nirvana", sub = "Oneiros Grip", ammo = "Seraphicaller" }
 
-    -- Precast Sets
-    sets['precast_Elemental Siphon'] = set_combine(sets.base, {
+    sets.skill= {
+        main = "Espiritus",
+        sub = "Vox Grip",
         head = "Convoker's Horn",
         neck = "Caller's Pendant",
         rear = "Smn. Earring",
+        lear = "Andoaa Earring",
         body = "Beckoner's Doublet +1",
         hands = "Lamassu Mitts +1",
         lring = "Evoker's Ring",
@@ -39,6 +41,12 @@ function get_sets()
         back = "Conveyance Cape",
         waist = "Lucidity Sash",
         legs = "Becokner's Spats +1",
+        feet = "Apogee Pumps"
+    }
+    -- Precast Sets
+    sets['precast_Elemental Siphon'] = set_combine(sets.skill, {
+        main = "Nirvana",
+        sub = "Oneiros Grip",
         feet = "Beck. Pigaches +1"
     })
 
@@ -235,8 +243,10 @@ function get_sets()
     sets.midcast_MAcc_BP = set_combine(sets.BP_Base,
         { neck = "Consummation Torque", legs = LegPMacc, feet = "Beck. Pigaches +1" })
 
-    sets.midcast_Buff_BP = set_combine(sets.BP_Base,
+    sets.midcast_Buff_BP = set_combine(sets.skill,
         { waist = "Lucidity Sash", legs = "Beckoner's Spats +1" })
+    sets.midcast_Buff_BP_Melee = set_combine(sets.skill,
+        {main = "Nirvana", sub = "Oneiros Grip"})
 
     sets.midcast_Cur = {
         head = "Marduk's Tiara +1",
@@ -287,7 +297,7 @@ function get_sets()
         ring1 = "Defending Ring",
         ring2 = "Shadow Ring",
         back = "Solemnity Cape",
-        waist = "Mujin Obi",
+        waist = "Fucho-no-obi",
         legs = "Assiduity Pants +1",
         feet = "Herald's Gaiters"
     })
@@ -319,7 +329,7 @@ function get_sets()
     sets.aftercast_Pet_Atk = set_combine(sets.aftercast_Perp_Base, {
         head = "Apogee Crown +1",
         neck = "Empath Necklace",
-        ear1 = "moonshade earring",
+        ear1 = "Rimeice earring",
         ear2 = "Domes. Earring",
         body = "Glyphic Doublet +1",
         hands = "Apogee mitts +1",
@@ -437,7 +447,7 @@ end
 
 function pet_midcast(spell, action)
     if spell.name == 'Perfect Defense' then
-        equip(sets['precast_Elemental Siphon'], { feet = "Apogee Pumps" })
+        equip(sets.skill)
     elseif spell.name == 'Zantetsuken' then
         equip(sets.midcast_zantetsuken)
     elseif spell.type == 'BloodPactWard' then

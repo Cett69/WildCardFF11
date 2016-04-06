@@ -88,7 +88,7 @@ end
 -----------------------------------------------------------------------------------
 --Name: target_make(targarr)
 --Args:
----- targarr (table of booleans): Keyed to potential targets
+---- targets (table of booleans): Keyed to potential targets
 -----------------------------------------------------------------------------------
 --Returns:
 ---- Created valid target, defaulting to '<me>'
@@ -101,7 +101,7 @@ function target_make(targets)
         -- rest of the processing and just return <me>.
     elseif target.hpp == 0 then
         target_type = 'Corpse'
-    elseif target.is_npc then
+    elseif target.is_npc and target.spawn_type ~= 14 then
         target_type = 'Enemy'
         -- Need to add handling that differentiates 'Enemy' and 'NPC' here.
     else
@@ -116,19 +116,20 @@ function target_make(targets)
                         target_type = 'Party'
                     end
                 end
-                if target.charmed then
+                if target.charmed and not target.is_npc then
                     target_type = 'Enemy'
                 end
                 break
             end
         end
     end
-    
+        
     if targets[target_type] and target_type ~= 'Self' then
         return '<t>'
     elseif targets.Self then
---    windower.add_to_chat(8,"got to the end "..tostring(target_type))
         return '<me>'
+    elseif targets.Self or targets.Party or targets.Enemy or targets.NPC or targets.Ally or targets.Corpse then
+        return '<t>'
     else
         return ''
     end
